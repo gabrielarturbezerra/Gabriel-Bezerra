@@ -7,7 +7,10 @@
 
 ## **Mais sobre mim 👇🏽 More about me**
 * Linkedin: https://www.linkedin.com/in/gabriel-bezerra-055b95225/
-  
+
+## **Cursos em andamento 📚 Courses in progress**
+* Programação C# com CRM Dynamics pela [DIO](https://web.dio.me/track/coding-future-avanade-programacao-c-com-crm-dynamics)
+* Formação Profissional Python pela [Udemy](https://www.udemy.com/course/formacao-python/)  
 
 # 📨 Contato comercial | Commercial Contact:
 - Email: gabrielarturbezerra@gmail.com
