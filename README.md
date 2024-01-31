@@ -27,7 +27,7 @@
 
 | Cursos | Plataformas |
 |-------|---------|
-|Programação C# com CRM Dynamics | [DIO](https://web.dio.me/track/coding-future-avanade-programacao-c-com-crm-dynamics)|
+|Programador .NET do Zero ao Profissional com a linguagem C# | [Udemy](https://www.udemy.com/course/formacao-python/)|
 |Formação Profissional Python | [Udemy](https://www.udemy.com/course/formacao-python/)|
 
 # 📨 Contato comercial | Commercial Contact:
